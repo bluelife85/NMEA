@@ -2,6 +2,7 @@
 this module parse NMEA sentences
 # reference docs
 <https://content.u-blox.com/sites/default/files/products/documents/u-blox8-M8_ReceiverDescrProtSpec_UBX-13003221.pdf>
+<https://www.nmea.org/Assets/NMEA%200183%20V4.11%20Sentence%20Talker%20Identifiers.pdf>
 # the list of messages that can parse.
 1. DTM
 2. GBS
